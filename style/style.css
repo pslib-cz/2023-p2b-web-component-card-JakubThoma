@@ -36,8 +36,6 @@ span {
     height: auto;
     box-shadow: 2px 2px 5px grey;
     margin: 2%;
-    animation-name: load;
-    animation-duration: 2s;
 }
 
 .card_head {
